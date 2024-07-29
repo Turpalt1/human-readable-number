@@ -17,7 +17,7 @@ Write your code in `src/index.js.
 ## Prepare and test
 1. Install [Node.js](https://nodejs.org/en/download/)   
 2. Fork this repository: human-readable-number
-3. Clone your newly created repo: https://github.com/<%your_github_username%>/human-readable-number/  
+3. Clone your newly created repo: https://github.com/Turpalt1/human-readable-number/  
 4. Go to folder `human-readable-number`  
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
 6. Run `npm test` in the command line  
